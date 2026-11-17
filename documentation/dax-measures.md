@@ -1,6 +1,6 @@
 # DAX measures and calculations
 
-This document records representative measures relevant to the dashboard. Confirm the exact measure names and definitions in the included PBIX before treating these examples as a complete export of the report's DAX.
+This document records example of measures to the dashboard. Confirm the exact measure names and definitions in the included PBIX before treating these examples as a complete export of the report's DAX.
 
 ## Actual accrual
 

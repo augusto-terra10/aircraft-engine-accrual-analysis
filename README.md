@@ -76,10 +76,6 @@ aircraft-engine-accrual-analysis/
     └── dax-measures.md
 ```
 
-## Important note
-
-The Power BI report file (`.pbix`) is not included in this version of the repository yet. It can be added to the `dashboard/` folder when available.
-
 ## Author
 
 **Augusto Terra**  
